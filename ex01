@@ -1,0 +1,7 @@
+print('Esse programa lê dois números e dá a soma dos dois números')
+num1 = int(input('digite o primeiro número: '))
+num2 = int(input('Digite o segundo número: '))
+
+num3 = num1 + num2
+
+print('a soma é',num3)
